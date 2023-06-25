@@ -1,0 +1,4 @@
+https://www.learmoreseekmore.com/2022/04/part-1-a-crud-operation-demo-with-dotne6-web-api-sql-database-angular13.html
+
+https://github.com/Naveen512/Dotnet6-Angular13-CRUD-Sample
+
